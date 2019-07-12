@@ -4,15 +4,11 @@
    contain the root `toctree` directive.
 
 Sparse Signal Processing（稀疏信号处理）
-======================================
+=============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   Sparsity
-   StrSparse
-   
 
 Indices and tables
 ==================
